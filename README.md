@@ -51,7 +51,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 # :closed_book: License
 
-Released in 20201 :closed_book: License
+Released in 2021 :closed_book: License
 
 Made with love by [Hebert F. Barros](https://github.com/hebertcisco) 🚀.
 This project is under the [MIT license](https://github.com/hebertcisco/native-api-notification-javascript/main/LICENSE).
