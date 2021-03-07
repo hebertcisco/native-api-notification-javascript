@@ -1,0 +1,21 @@
+{
+  "name": "native-api-notification-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebertcisco/native-api-notification-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebertcisco/native-api-notification-javascript/issues"
+  },
+  "homepage": "https://github.com/hebertcisco/native-api-notification-javascript#readme"
+}
