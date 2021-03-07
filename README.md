@@ -1,7 +1,3 @@
-<p align="center">
-   <img src="https://github.com/hebertcisco/native-api-notification-javascript/blob/main/.github/bell-1096279_640.png?raw=true" alt="native-api-notification-javascript" width="280"/>
-</p>
-
 <p align="center">	
 <a href="https://www.linkedin.com/in/hebert-f-barros/">
   <img alt="Hebert F. Barros" src="https://img.shields.io/badge/-Hebert F. Barros-5f9ea0?style=flat&logo=Linkedin&logoColor=white" />
