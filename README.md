@@ -43,7 +43,7 @@ yarn start
 
 ### Open
 
-> http://localhost:5000/
+> [http://localhost:5000/](https://notification-js.vercel.app/)
 
 # :bug: Issues
 
