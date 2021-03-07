@@ -31,6 +31,7 @@ This project was made using the follow technologies:
 ```bash
 # Clone Repository
 $ git clone https://github.com/hebertcisco/native-api-notification-javascript.git
+$ cd native-api-notification-javascript
 ```
 
 ### Run Project
